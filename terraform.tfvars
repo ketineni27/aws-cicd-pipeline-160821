@@ -1,2 +1,2 @@
-dockerhub_credentials = "arn:aws:secretsmanager:us-east-1:661779315943:secret:codebuild/dockerhub-LNTirx"
-codestar_connector_credentials = "arn:aws:codestar-connections:us-east-1:661779315943:connection/4d159a96-9097-47bc-8e67-c6a0988bea4a"
+dockerhub_credentials = "arn:aws:secretsmanager:us-east-1:502449221408:secret:codebuild/dockerhub/16082021-OCoC9q"
+codestar_connector_credentials = "arn:aws:codestar-connections:us-east-1:502449221408:connection/9b737964-736e-4363-aa1c-dfa9c2794a40"
